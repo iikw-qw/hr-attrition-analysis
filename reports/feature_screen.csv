@@ -1,0 +1,9 @@
+feature,test,p_value,effect,p_adjusted,significant
+satisfaction,mann-whitney,0.0,0.34161,0.0,True
+overtime,chi2,0.0,0.23241,0.0,True
+department,chi2,0.0,0.21347,0.0,True
+salary,mann-whitney,0.0,0.37024,0.0,True
+remote_days,mann-whitney,0.00162,0.46351,0.00647,True
+years_since_promotion,mann-whitney,0.00397,0.53424,0.0119,True
+tenure_years,mann-whitney,0.08764,0.47969,0.17528,False
+age,mann-whitney,0.95307,0.5007,0.95307,False

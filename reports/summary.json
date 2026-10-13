@@ -1,0 +1,18 @@
+{
+  "employees": 3000,
+  "attrition_rate": 0.269,
+  "highest_attrition_department": "support",
+  "highest_department_rate": 0.423,
+  "overtime_odds_ratio": 2.74,
+  "satisfaction_odds_ratio_per_point": 0.47,
+  "significant_features_after_holm": [
+    "satisfaction",
+    "overtime",
+    "department",
+    "salary",
+    "remote_days",
+    "years_since_promotion"
+  ],
+  "top_risk_quintile_attrition": 0.577,
+  "bottom_risk_quintile_attrition": 0.08
+}
